@@ -22,6 +22,15 @@
   <tr>
     <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/synctor_3.png"></td>
   </tr>
+  <tr>
+    <td>
+      <h4>Used Technologies</h4>
+      <ul>
+        <li>Angular - For Frontend</li>
+        <li>Django - For Backend</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 <h3>BlueSync</h3>
 <table>
