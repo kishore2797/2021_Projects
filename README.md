@@ -64,17 +64,20 @@
 </table>
 <h3>Tesla Prods API</h3>
 <h6>For create products</h6>
-<a href="https://tesla-prods.herokuapp.com/home">Site Link</a>
+<a href="https://tesla-prods-api.herokuapp.com/home">Site Link</a>
 <p>Note: If monthly dynos reached the limit, you can't able to view site. This project is only for practice.</p>
 <table>
   <tr>
-    <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/tesla_prods_1.PNG"></td>
+    <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/tesla_prods_api_1.PNG"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/tesla_prods_api_2.PNG"></td>
   </tr>
   <tr>
     <td>
       <h4>Used Technologies</h4>
       <ul>
-        <li>Angular - For Frontend</li>
+        <li>Django - As Backend</li>
       </ul>
     </td>
   </tr>
