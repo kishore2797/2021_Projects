@@ -2,7 +2,7 @@
 <p>This all projects for practicing and testing. Real world projects is in development. As soon as it will released to production.</p>
 
 <h3>Synctor</h3>
-<a href="https://synctor.herokuapp.com/" target="_blank" style="text-decoration: underline;">Site Link</a>
+<a href="https://synctor.herokuapp.com/" target="_blank">Site Link</a>
 <p>Note: If monthly dynos reached the limit, you can't able to view site. Because this project is in development. Once it finished it will moved to live production.</p>
 <table>
   <tr>
