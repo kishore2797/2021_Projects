@@ -1,6 +1,27 @@
 # All Current Projects
 <p>This all projects for practicing and testing. Real world projects is in development. As soon as it will released to production.</p>
 
+<h3>Syncify</h3>
+<table>
+  <tr>
+    <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/syncify_web_1.png"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/synctor_android_1.jpg"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/synctor_android_2.jpg"></td>
+  </tr>
+  <tr>
+    <td>
+      <h4>Used Technologies</h4>
+      <ul>
+        <li>Angular - For Frontend</li>
+        <li>Django - For Backend</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 <h3>Synctor</h3>
 <a href="https://synctor.herokuapp.com/" target="_blank">Site Link</a>
 <p>Note: If monthly dynos reached the limit, you can't able to view site. Because this project is in development. Once it finished it will moved to live production.</p>
