@@ -4,20 +4,19 @@
 <h3>Syncify</h3>
 <table>
   <tr>
-    <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/syncify_web_1.png"></td>
+    <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/syncify_web_1.PNG"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/synctor_android_1.jpg"></td>
+    <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/syncify_android_1.jpg"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/synctor_android_2.jpg"></td>
+    <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/syncify_android_2.jpg"></td>
   </tr>
   <tr>
     <td>
       <h4>Used Technologies</h4>
       <ul>
-        <li>Angular - For Frontend</li>
-        <li>Django - For Backend</li>
+        <li>Android Kotlin</li>
       </ul>
     </td>
   </tr>
