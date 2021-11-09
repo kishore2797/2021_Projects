@@ -7,7 +7,7 @@
     <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/syncify_web_1.PNG"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/syncify_android_1.jpg"></td>
+    <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/syncify_android_1.jpg" width="100px"></td>
   </tr>
   <tr>
     <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/syncify_android_2.jpg"></td>
