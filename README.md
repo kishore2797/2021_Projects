@@ -2,13 +2,14 @@
 <p>This all projects for practicing and testing. Real world projects is in development. As soon as it will released to production.</p>
 
 <h3>Syncify</h3>
+<h5>App Url : https://play.google.com/store/apps/details?id=com.synctor.syncify </h5>
 <table>
   <tr>
     <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/syncify_web_1.PNG"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/syncify_android_1.jpg" height="50%"></td>
-    <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/syncify_android_2.jpg" height="50%"></td>
+    <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/syncify_android_1.jpg"></td>
+    <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/syncify_android_2.jpg"></td>
   </tr>
   <tr>
     <td>
