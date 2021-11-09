@@ -8,7 +8,7 @@
     <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/syncify_web_1.PNG"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/syncify_android_1.jpg" width="600px"></td>
+    <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/syncify_android_1.jpg" width="500px"></td>
     <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/syncify_android_2.jpg"></td>
   </tr>
   <tr>
@@ -21,7 +21,7 @@
   </tr>
 </table>
 <h3>Synctor</h3>
-<a href="https://synctor.herokuapp.com/" target="_blank">Site Link</a>
+<h5>Site Url -- <a href="https://synctor.herokuapp.com/" target="_blank">https://synctor.herokuapp.com/</a></h5>
 <p>Note: If monthly dynos reached the limit, you can't able to view site. Because this project is in development. Once it finished it will moved to live production.</p>
 <table>
   <tr>
@@ -50,7 +50,7 @@
   </tr>
 </table>
 <h3>Servwings</h3>
-<a href="https://servwings.herokuapp.com/">Site Link</a>
+<h5>Site Url -- <a href="https://servwings.herokuapp.com/" target="_blank">https://servwings.herokuapp.com/</a></h5>
 <p>Note: If monthly dynos reached the limit, you can't able to view site. Because this project is in development. Once it finished it will moved to live production.</p>
 <table>
   <tr>
@@ -58,7 +58,7 @@
   </tr>
 </table>
 <h3>Prowings</h3>
-<a href="https://prowings.herokuapp.com/">Site Link</a>
+<h5>Site Url -- <a href="https://prowings.herokuapp.com/" target="_blank">https://prowings.herokuapp.com/</a></h5>
 <p>Note: If monthly dynos reached the limit, you can't able to view site. Because this project is in development. Once it finished it will moved to live production.</p>
 <table>
   <tr>
@@ -66,7 +66,7 @@
   </tr>
 </table>
 <h3>Tesla Prods</h3>
-<a href="https://tesla-prods.herokuapp.com/home">Site Link</a>
+<h5>Site Url -- <a href="https://tesla-prods.herokuapp.com/home" target="_blank">https://tesla-prods.herokuapp.com/home</a></h5>
 <p>Note: If monthly dynos reached the limit, you can't able to view site. This project is only for practice.</p>
 <table>
   <tr>
@@ -83,7 +83,7 @@
 </table>
 <h3>Tesla Prods API</h3>
 <h6>For create products</h6>
-<a href="https://tesla-prods-api.herokuapp.com/home">Site Link</a>
+<h5>Site Url -- <a href="https://tesla-prods-api.herokuapp.com/home" target="_blank">https://tesla-prods-api.herokuapp.com/home</a></h5>
 <p>Note: If monthly dynos reached the limit, you can't able to view site. This project is only for practice.</p>
 <table>
   <tr>
@@ -102,6 +102,7 @@
   </tr>
 </table>
 <h3>WebStack</h3>
+<h5>Site Url -- <a href="https://tesla-prods-api.herokuapp.com/home" target="_blank">https://tesla-prods-api.herokuapp.com/home</a></h5>
 <table>
   <tr>
     <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/web_stack_1.png"></td>
