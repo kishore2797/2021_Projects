@@ -8,7 +8,7 @@
     <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/syncify_web_1.PNG"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/syncify_android_1.jpg" width="500px"></td>
+    <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/syncify_android_1.jpg" width="400px" height="800"></td>
     <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/syncify_android_2.jpg"></td>
   </tr>
   <tr>
@@ -102,7 +102,6 @@
   </tr>
 </table>
 <h3>WebStack</h3>
-<h5>Site Url -- <a href="https://tesla-prods-api.herokuapp.com/home" target="_blank">https://tesla-prods-api.herokuapp.com/home</a></h5>
 <table>
   <tr>
     <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/web_stack_1.png"></td>
