@@ -50,25 +50,25 @@
     <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/synctor_servwings_1.png"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/synctor_servwings_2.png"></td>
+    <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/synctor_servwings_2.PNG"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/synctor_servwings_3.png"></td>
+    <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/synctor_servwings_3.PNG"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/synctor_servwings_4.png"></td>
+    <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/synctor_servwings_4.PNG"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/synctor_servwings_5.png"></td>
+    <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/synctor_servwings_5.PNG"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/synctor_servwings_6.png"></td>
+    <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/synctor_servwings_6.PNG"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/synctor_servwings_7.png"></td>
+    <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/synctor_servwings_7.PNG"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/synctor_servwings_8.png"></td>
+    <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/synctor_servwings_8.PNG"></td>
   </tr>
 </table>
 <h3>Servwings</h3>
@@ -123,10 +123,18 @@
     </td>
   </tr>
 </table>
+<h2>Pratice Projects</h2>
 <h3>WebStack</h3>
 <h5>Site Url -- <a href="https://synctor-web-stack.herokuapp.com/" target="_blank">https://synctor-web-stack.herokuapp.com/</a></h5>
 <table>
   <tr>
     <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/web_stack_1.png"></td>
+  </tr>
+</table>
+<h3>CovidTracker</h3>
+<h5>Site Url -- <a href="https://corvidtracker.netlify.app/" target="_blank">https://corvidtracker.netlify.app/</a></h5>
+<table>
+  <tr>
+    <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/covid_tracker_1.PNG"></td>
   </tr>
 </table>
