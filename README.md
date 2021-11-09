@@ -123,10 +123,18 @@
     </td>
   </tr>
 </table>
+<h2>Pratice Projects</h2>
 <h3>WebStack</h3>
 <h5>Site Url -- <a href="https://synctor-web-stack.herokuapp.com/" target="_blank">https://synctor-web-stack.herokuapp.com/</a></h5>
 <table>
   <tr>
     <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/web_stack_1.png"></td>
+  </tr>
+</table>
+<h3>CovidTracker</h3>
+<h5>Site Url -- <a href="https://corvidtracker.netlify.app/" target="_blank">https://corvidtracker.netlify.app/</a></h5>
+<table>
+  <tr>
+    <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/covid_tracker_1.PNG"></td>
   </tr>
 </table>
