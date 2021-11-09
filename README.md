@@ -1,4 +1,4 @@
-# All Current Projects
+# All 2021 Projects
 <p>This all projects for practicing and testing. Real world projects is in development. As soon as it will released to production.</p>
 
 <h3>Syncify</h3>
