@@ -154,3 +154,18 @@
     </td>
   </tr>
 </table>
+<h3>Netflix Clone</h3>
+<h5>Site Url -- <a href="https://netflix-27121997.web.app/" target="_blank">https://netflix-27121997.web.app/</a></h5>
+<table>
+  <tr>
+    <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/netflix_clone_1.PNG"></td>
+  </tr>
+   <tr>
+    <td>
+      <h4>Used Technologies</h4>
+      <ul>
+        <li>React Js</li>
+      </ul>
+    </td>
+  </tr>
+</table>
