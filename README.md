@@ -68,6 +68,27 @@
   </td>
   </tr>
 </table>
+<h1>Flutter Projects</h1>
+<h3>Movie App</h3>
+ <table>
+  <tr>
+  <td>
+  <img src="https://github.com/defetron27/2021_Projects/blob/main/movie_app_1.jpg" />
+  </td>
+    <td>
+  <img src="https://github.com/defetron27/2021_Projects/blob/main/movie_app_2.jpg" />
+  </td>
+    <td>
+  <img src="https://github.com/defetron27/2021_Projects/blob/main/movie_app_3.jpg" />
+  </td>
+    <td>
+  <img src="https://github.com/defetron27/2021_Projects/blob/main/movie_app_4.jpg" />
+  </td>
+    <td>
+  <img src="https://github.com/defetron27/2021_Projects/blob/main/movie_app_5.jpg" />
+  </td>
+  </tr>
+</table>
 <h1>Designed UI's</h1>
 <h3>Product Sales</h3>
  <table>
