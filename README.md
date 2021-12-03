@@ -237,7 +237,7 @@
 <h3>WebStack - <a href="https://synctor-web-stack.herokuapp.com/" target="_blank">https://synctor-web-stack.herokuapp.com/</a></h3>
 <table>
   <tr>
-    <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/web_stack_1.png"></td>
+    <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/web_stack_1.png"/></td>
   </tr>
   <tr>
     <td>
