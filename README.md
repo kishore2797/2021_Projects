@@ -98,7 +98,9 @@
      <td>
   <img src="https://github.com/defetron27/2021_Projects/blob/main/Social_Chat_3.jpg" />
   </td>
-     <td>
+  </tr>
+  <tr>
+    <td>
   <img src="https://github.com/defetron27/2021_Projects/blob/main/Social_Chat_4.jpg" />
   </td>
      <td>
