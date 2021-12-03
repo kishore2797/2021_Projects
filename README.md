@@ -172,6 +172,16 @@
   </tr>
 </table>
 <h1>VPM</h1>
+
+<h3>Used Technologies</h3>
+<ul>
+  <li>MMVM</li>
+  <li>KTOR</li>
+  <li>KODEIN</li>
+  <li>PAGING 3</li>
+  <li>ROOM DATABASE</li>
+</ul>
+
 <h3>Dark Mode</h3>
 <h5>Screen Images</h5>
 <table>
@@ -210,15 +220,5 @@
 <img src="https://github.com/defetron27/Android_VPM/blob/master/Light%20Mode%20(5).jpg" />
 </td>
 </tr>
-  <tr>
-    <h3>Used Technologies</h3>
-    <ul>
-      <li>MMVM</li>
-      <li>KTOR</li>
-      <li>KODEIN</li>
-      <li>PAGING 3</li>
-      <li>ROOM DATABASE</li>
-    </ul>
-  </tr>
 </table>
 
