@@ -1,5 +1,5 @@
 2021 Projects
-<h1>Android Projects</h1>
+<h1><img src="https://cdn.vox-cdn.com/thumbor/-_iz84sxjFk1L4JHRwhY6TCdu9o=/0x0:2040x1560/920x613/filters:focal(857x617:1183x943):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/65088839/Android_logo_stacked__RGB_.5.jpg" width="50px" height="50">Android Projects</h1>
 <h3>Syncify - <a href="https://play.google.com/store/apps/details?id=com.synctor.syncify" target="_blank" style="text-decoration: underline;">https://play.google.com/store/apps/details?id=com.synctor.syncify</a></h3>
 <table>
   <tr>
@@ -76,16 +76,13 @@
   <img src="https://github.com/defetron27/2021_Projects/blob/main/movie_app_1.jpg" />
   </td>
     <td>
-  <img src="https://github.com/defetron27/2021_Projects/blob/main/movie_app_2.jpg" />
-  </td>
-    <td>
   <img src="https://github.com/defetron27/2021_Projects/blob/main/movie_app_3.jpg" />
   </td>
     <td>
-  <img src="https://github.com/defetron27/2021_Projects/blob/main/movie_app_4.jpg" />
+  <img src="https://github.com/defetron27/2021_Projects/blob/main/movie_app_2.jpg" />
   </td>
     <td>
-  <img src="https://github.com/defetron27/2021_Projects/blob/main/movie_app_5.jpg" />
+  <img src="https://github.com/defetron27/2021_Projects/blob/main/movie_app_4.jpg" />
   </td>
   </tr>
 </table>
