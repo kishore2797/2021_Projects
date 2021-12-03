@@ -1,5 +1,5 @@
 2021 Projects
-<h1><img src="https://cdn.vox-cdn.com/thumbor/-_iz84sxjFk1L4JHRwhY6TCdu9o=/0x0:2040x1560/920x613/filters:focal(857x617:1183x943):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/65088839/Android_logo_stacked__RGB_.5.jpg" width="50px" height="50">Android Projects</h1>
+<h1><img src="https://www.kindpng.com/picc/m/14-142698_logo-android-png-android-logo-png-2019-transparent.png" width="50px" height="50">  Android Projects</h1>
 <h3>Syncify - <a href="https://play.google.com/store/apps/details?id=com.synctor.syncify" target="_blank" style="text-decoration: underline;">https://play.google.com/store/apps/details?id=com.synctor.syncify</a></h3>
 <table>
   <tr>
