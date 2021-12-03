@@ -1,4 +1,4 @@
-# 2021 Projects
+2021 Projects
 <h2>Android Projects</h2>
 <h4>Syncify - <a href="https://play.google.com/store/apps/details?id=com.synctor.syncify" target="_blank">https://play.google.com/store/apps/details?id=com.synctor.syncify</a></h4>
 <table>
