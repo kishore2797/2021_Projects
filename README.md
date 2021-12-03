@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/syncify_android_1.jpg" width="400px" height="850"></td>
-    <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/syncify_android_2.jpg"></td>
+    <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/syncify_android_2.jpg" width="400px" height="850"></td>
   </tr>
   <tr>
     <td>
