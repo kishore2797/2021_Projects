@@ -1,8 +1,8 @@
-# All 2021 Projects
-<p>This all projects for practicing and testing. Real world projects is in development. As soon as it will released to production.</p>
+# 2021 Projects
 
-<h3>Syncify</h3>
-<h5>App Url -- <a href="https://play.google.com/store/apps/details?id=com.synctor.syncify" target="_blank">https://play.google.com/store/apps/details?id=com.synctor.syncify</a></h5>
+## Android Projects
+<h2>Syncify</h2>
+<h3>App Url -- <a href="https://play.google.com/store/apps/details?id=com.synctor.syncify" target="_blank">https://play.google.com/store/apps/details?id=com.synctor.syncify</a></h3>
 <table>
   <tr>
     <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/syncify_web_1.PNG"></td>
