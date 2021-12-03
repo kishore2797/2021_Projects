@@ -1,8 +1,6 @@
 # 2021 Projects
-
-## Android Projects
-<h2>Syncify</h2>
-<h3>App Url -- <a href="https://play.google.com/store/apps/details?id=com.synctor.syncify" target="_blank">https://play.google.com/store/apps/details?id=com.synctor.syncify</a></h3>
+<h2>Android Projects</h2>
+<h4>Syncify - <a href="https://play.google.com/store/apps/details?id=com.synctor.syncify" target="_blank">https://play.google.com/store/apps/details?id=com.synctor.syncify</a></h4>
 <table>
   <tr>
     <td><img src="https://github.com/defetron27/Current_Development_Projects/blob/main/syncify_web_1.PNG"></td>
