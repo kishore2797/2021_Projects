@@ -85,6 +85,13 @@
   <img src="https://github.com/defetron27/2021_Projects/blob/main/movie_app_4.jpg" />
   </td>
   </tr>
+  <tr>
+    <h5>Used Technologies</h5>
+<ul>
+  <li>BLOC</li>
+  <li>MOVIE DB API</li>
+</ul>
+  </tr>
 </table>
 <h1>Designed UI's</h1>
 <h3>Product Sales</h3>
