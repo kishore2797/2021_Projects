@@ -215,7 +215,7 @@
     </td>
   </tr>
 </table>
-<h3>Tesla Prods API - <a href="https://tesla-prods-api.herokuapp.com/home" target="_blank">https://tesla-prods-api.herokuapp.com/home</a></h3>
+<h3>Tesla Prods API - <a href="https://tesla-prods-api.herokuapp.com" target="_blank">https://tesla-prods-api.herokuapp.com</a></h3>
 <h6>For create products</h6>
 <p>Warning: If monthly 1000 dynos reached the limit, you can't able to view this site. Because this project is in free dynos.</p>
 <table>
